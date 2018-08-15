@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace GitHub.Controllers
 {
+    // add a change
     public class HomeController : Controller
     {
         public ActionResult Index()
